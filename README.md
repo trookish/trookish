@@ -5,8 +5,8 @@
 <h1>Turki AlShaalan</h1>
 
 <p>
-  <a href="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=520&lines=Game+Developer;Software+Engineer;AI+Enthusiast;IT+Student">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=520&lines=Game+Developer;Software+Engineer;AI+Enthusiast;IT+Student" alt="Typing"/>
+  <a href="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=520&lines=Game+Developer;Software+Engineer;AI+Enthusiast">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=520&lines=Game+Developer;Software+Engineer;AI+Enthusiast" alt="typing"/>
   </a>
 </p>
 
@@ -26,15 +26,15 @@
 
 ## About
 
-IT student, software engineer, and game developer working at the intersection of **interactive entertainment** and **applied AI**. I build games with emergent mechanics, AI tools that augment creativity, and software engineered with care.
+IT student, software engineer, and game developer working at the intersection of **interactive entertainment** and **applied AI**. I build games with emergent mechanics, AI tools that augment creativity, and backend systems that scale. Currently exploring **game AI**, **LLMs**, and **rendering techniques**.
 
 ---
 
 ## Current Focus
 
-- 🎮 Designing game systems and AI
+- 🎮 Game systems design and AI implementation
 - 🧠 Exploring LLMs and generative AI
-- 🛠️ Software engineering craft
+- 🛠️ Full-stack software engineering
 - 📚 Learning rendering, ML, and systems design
 
 ---
@@ -51,17 +51,13 @@ IT student, software engineer, and game developer working at the intersection of
 
 ## Featured Projects
 
-| Project | Stack |
-|---|---|
-| 🧩 **Dungeon Puzzle** | Unity · C# |
-| 📚 **The Scary Library** | Unity · Blender |
-| 🔫 **Knight With a Gun** | Unity · Game AI |
-| 🗝️ **The Hidden Kanz** | Unity · Level Design |
-| 🧠 **DocuMind** | Python · LLMs |
-| 🛡️ **SecureCheck** | Python · Security |
-| 🍳 **Recipe Hub** | PHP · MySQL |
-| 🏫 **Smart Campus Services** | Java · MySQL |
-| 🍽️ **Restaurant Ordering System** | PHP · MySQL |
+| Project | Description | Tech Stack |
+|---------|-------------|-----------|
+| 🎓 **Smart Campus Services** | Android app for campus services with announcements, product browsing, and shopping cart | Java · Android · SQLite |
+| 🍳 **Recipe Hub** | Web-based recipe management platform with search, favorites, and admin panel | PHP · MySQL · JavaScript |
+| 🏫 **Restaurant Ordering System** | Full-featured restaurant management application | Java · Database |
+| 🛡️ **SecureCheck** | Security-focused application | Python · Security |
+| 🎨 **Portfolio Website** | Personal portfolio showcasing projects and skills | JavaScript · Web |
 
 ---
 
